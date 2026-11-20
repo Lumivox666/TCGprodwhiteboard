@@ -1,0 +1,11 @@
+{
+  "name": "tcg-production-improvement-whiteboard",
+  "version": "1.1.0",
+  "private": true,
+  "description": "TCG production goals, KPI issue tracking, attendance and A3 communications board",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": { "node": ">=20" }
+}
